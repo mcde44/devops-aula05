@@ -8,8 +8,8 @@ def inicializar():
     return tab
 
 def main():
-jogo = inicializar()
-print(jogo)
+    jogo = inicializar()
+    print(jogo)
 
 
 if __name__ == "__main__":
